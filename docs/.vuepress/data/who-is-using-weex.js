@@ -173,7 +173,7 @@ export default [
   },
   {
     name_CN: '有赞零售',
-    name_EN: 'youzan',
+    name_EN: 'youzan_retail',
     icon: 'https://img.yzcdn.cn/public_files/2018/02/13/2e34b39ef45295e47919d34dc84b4cb5.png',
     iOS: 'https://itunes.apple.com/cn/app/%E6%9C%89%E8%B5%9E%E9%9B%B6%E5%94%AE/id1248696859?mt=8',
     android: 'https://a.app.qq.com/o/simple.jsp?pkgname=com.youzan.retail'
